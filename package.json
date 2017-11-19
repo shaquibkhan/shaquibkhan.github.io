@@ -1,0 +1,15 @@
+{
+  "name": "coffee-project",
+  "version": "1.0.0",
+  "description": "its an online baristo coffee ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaQuib Khan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
